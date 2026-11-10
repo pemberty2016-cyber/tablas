@@ -1,0 +1,14 @@
+h1 {
+    color: blue; /*color letra*/
+    font-family: 'lucida sans';
+    text-align: center; /*posicion letra*/
+    background-color: purple; /*color fondo*/
+    font-size: 24px; /*tamaño letra*/
+}
+    h2{
+        color: red
+
+    }
+    body{
+    background: linear-gradient(rgb(79, 31, 79),rgb(84, 84, 240),rgb(218, 99, 119))
+    }
